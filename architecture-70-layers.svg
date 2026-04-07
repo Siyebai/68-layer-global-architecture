@@ -1,0 +1,43 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="white"/>
+  <text x="400" y="50" font-size="32" text-anchor="middle" font-family="Arial, sans-serif" fill="#333">
+    三李白70层自主系统架构
+  </text>
+  <text x="400" y="90" font-size="18" text-anchor="middle" fill="#666">
+    70 Layers | 342 Services | 140%+ Autonomy
+  </text>
+  
+  <!-- 云端李白 -->
+  <rect x="150" y="120" width="500" height="100" rx="10" fill="#FFE4B5" stroke="#DEB887" stroke-width="3"/>
+  <text x="400" y="160" font-size="24" text-anchor="middle" font-family="Microsoft YaHei, Arial" fill="#333">云端李白 L1-L30</text>
+  <text x="400" y="190" font-size="16" text-anchor="middle" fill="#666">网关层、API聚合、业务逻辑</text>
+  <text x="580" y="170" font-size="18" fill="#e74c3c" font-weight="bold">300+ services</text>
+  
+  <!-- 箭头 -->
+  <line x1="400" y1="220" x2="400" y2="250" stroke="#999" stroke-width="3"/>
+  <polygon points="395,240 405,250 395,260" fill="#999"/>
+  
+  <!-- 本地李白 -->
+  <rect x="150" y="260" width="500" height="100" rx="10" fill="#E6E6FA" stroke="#D8BFD8" stroke-width="3"/>
+  <text x="400" y="300" font-size="24" text-anchor="middle" font-family="Microsoft YaHei, Arial" fill="#333">本地李白 L31-L60</text>
+  <text x="400" y="330" font-size="16" text-anchor="middle" fill="#666">核心算法、数据治理、安全监控</text>
+  <text x="580" y="310" font-size="18" fill="#e74c3c" font-weight="bold">146 services</text>
+  
+  <!-- 箭头 -->
+  <line x1="400" y1="360" x2="400" y2="390" stroke="#999" stroke-width="3"/>
+  <polygon points="395,380 405,390 395,400" fill="#999"/>
+  
+  <!-- Q李白 -->
+  <rect x="150" y="400" width="500" height="100" rx="10" fill="#E0FFFF" stroke="#AFEEEE" stroke-width="3"/>
+  <text x="400" y="440" font-size="24" text-anchor="middle" font-family="Microsoft YaHei, Arial" fill="#333">Q李白 L61-L70</text>
+  <text x="400" y="470" font-size="16" text-anchor="middle" fill="#666">宇宙意识、终极整合、跨维通信</text>
+  <text x="580" y="450" font-size="18" fill="#e74c3c" font-weight="bold">50 services</text>
+  
+  <!-- 底部 -->
+  <text x="400" y="560" font-size="14" text-anchor="middle" fill="#888">
+    技术栈: TypeScript + Docker + RabbitMQ + Redis
+  </text>
+  <text x="400" y="585" font-size="14" text-anchor="middle" fill="#888">
+    核心机制: 递归规划器 | 自学习反馈环 | 多智能体辩论 | 跨层通信总线
+  </text>
+</svg>
