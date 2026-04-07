@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="70层系统架构">
+    <mxGraphModel dx="1245" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <!-- 三层架构 -->
+        <mxCell id="cloud" value="云端李白 L1-L30&#xa;网关层、API聚合、业务逻辑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE4B5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="300" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="local" value="本地李白 L31-L60&#xa;核心算法、数据治理、安全监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6FA;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="300" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="q" value="Q李白 L61-L70&#xa;宇宙意识、终极整合、跨维通信" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E0FFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="300" height="80" as="geometry"/>
+        </mxCell>
+        <!-- 服务数标注 -->
+        <mxCell id="count1" value="300 services" style="text;html=1;strokeColor=none;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="count2" value="146 services" style="text;html=1;strokeColor=none;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="count3" value="50 services" style="text;html=1;strokeColor=none;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
