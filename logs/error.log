@@ -1,0 +1,364 @@
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.524Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.579Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.602Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.660Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.681Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.762Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.832Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.913Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.034Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.114Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.286Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.367Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.587Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.670Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.939Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:08.022Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:08.342Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:08.424Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:08.794Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:08.876Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:09.295Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:09.377Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:09.847Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:09.929Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:10.449Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:10.530Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:11.101Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:11.181Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:11.802Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:11.882Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:12.553Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:12.634Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:13.355Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:13.436Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:14.206Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:14.287Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:15.107Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:15.189Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:16.058Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:16.140Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.059Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.144Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.435Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.487Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.547Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.589Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.602Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.703Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.740Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.855Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.941Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.057Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.193Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.309Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.494Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.610Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.845Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.962Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:19.248Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:19.364Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:19.700Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:19.815Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:20.203Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:20.319Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:20.755Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:20.870Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:21.359Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:21.471Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:22.010Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:22.123Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:22.712Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:22.825Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:23.463Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:23.577Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:24.265Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:24.378Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:25.116Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:25.229Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:26.018Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:26.130Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:26.974Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:27.082Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:27.975Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.083Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.302Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.355Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.440Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.457Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.492Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.594Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.609Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.745Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.811Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.947Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.063Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.199Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.364Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.501Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.715Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.854Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:30.118Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:30.258Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:30.570Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:30.711Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:31.071Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:31.212Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:31.623Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:31.763Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:32.225Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:32.365Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:32.876Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:33.016Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:33.578Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:33.718Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:34.332Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:34.470Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:35.134Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:35.272Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T01:38:08.364Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T01:38:08.364Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:10.389Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:10.390Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:11.394Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:11.394Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:39.482Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:39.482Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:09.589Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:09.592Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:09.589Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:09.593Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:39.697Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:39.798Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:09.809Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:09.809Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:09.910Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:09.910Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:10.812Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:10.913Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:40.020Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:40.020Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:10.124Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:10.125Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:10.225Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:10.225Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:40.235Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:40.336Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:09.437Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:09.438Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:10.340Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:10.340Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:10.440Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:11.343Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:39.440Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:39.541Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:09.548Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:09.548Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:09.648Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:09.649Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:39.654Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:39.755Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:09.761Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:09.762Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:09.862Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:09.862Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:10.764Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:10.864Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:39.874Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:39.975Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:09.983Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:09.983Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:10.083Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:10.084Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:40.090Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:40.291Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:09.393Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:09.393Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:10.195Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:10.195Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:10.396Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:11.198Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:39.496Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:40.298Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:09.407Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:09.407Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:09.607Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:09.608Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:39.528Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:39.729Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:09.639Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:09.640Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:09.840Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:09.840Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:10.642Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:10.843Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:39.752Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:39.953Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:09.958Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:09.958Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:10.059Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:10.059Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:40.071Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:40.172Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:10.194Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:10.195Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:10.295Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:10.295Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:11.198Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:11.298Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:39.401Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:40.304Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:09.406Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:09.406Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:09.606Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:09.607Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:39.519Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:39.720Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:09.632Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:09.632Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:09.833Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:09.833Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:10.635Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:10.835Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:39.744Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:39.947Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:09.859Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:09.859Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:10.060Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:10.060Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:39.968Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:40.169Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:10.077Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:10.078Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:10.278Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:10.278Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:11.082Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:11.283Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:39.388Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:40.191Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:09.493Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:09.493Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:10.295Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:10.295Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:39.399Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:39.600Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:09.513Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:09.513Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:09.814Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:09.815Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:10.516Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:10.817Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:39.625Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:39.926Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:09.737Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:09.738Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:10.040Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:10.040Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:39.854Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:40.155Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:10.062Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:10.062Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:10.263Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:10.263Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:11.065Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:11.265Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:39.468Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:40.171Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:09.579Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:09.579Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:10.281Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:10.281Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:39.488Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:39.689Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:09.598Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:09.598Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:09.799Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:09.799Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:10.602Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:10.803Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:39.706Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:39.906Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:10.009Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:10.013Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:10.010Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:10.014Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:40.117Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:40.117Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:10.220Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:10.220Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:10.221Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:10.223Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:11.223Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:11.223Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:39.421Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:40.330Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:09.428Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:09.428Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:09.528Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:09.529Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:39.527Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:39.627Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:09.634Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:09.634Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:09.732Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:09.732Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:10.635Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:10.735Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:39.739Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:39.840Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:09.850Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:09.850Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:09.951Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:09.951Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:39.961Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:40.162Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:10.091Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:10.091Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:10.293Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:10.293Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:11.095Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:11.295Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:40.190Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:40.391Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:09.490Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:09.490Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:10.292Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:10.293Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:39.397Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:39.599Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:48:51.668Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:48:51.671Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:53.681Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:53.681Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:53.682Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:53.683Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:54.685Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:54.685Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:22.883Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:22.984Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:49:30.518Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:49:30.549Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:32.621Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:32.620Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:32.622Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:32.623Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:33.621Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:33.622Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:49:57.018Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:49:57.079Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:59.114Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:59.115Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:59.115Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:59.115Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:00.118Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:00.119Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:28.214Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:28.315Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:50:29.323Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:50:29.326Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.426Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.426Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.427Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.427Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:32.529Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:32.529Z"}

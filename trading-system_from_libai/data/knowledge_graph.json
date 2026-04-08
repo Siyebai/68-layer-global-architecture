@@ -1,0 +1,219 @@
+{
+  "nodes": {
+    "strat_directional": {
+      "id": "strat_directional",
+      "type": "strategy",
+      "props": {
+        "name": "合约方向性",
+        "timeframe": "1h+4h",
+        "grade_system": "A/B/C/D"
+      },
+      "ts": 1775223178.5899682
+    },
+    "strat_funding": {
+      "id": "strat_funding",
+      "type": "strategy",
+      "props": {
+        "name": "资金费率套利",
+        "condition": "费率>0.1%/8h",
+        "hedge": "现货+合约"
+      },
+      "ts": 1775223178.589977
+    },
+    "strat_swing": {
+      "id": "strat_swing",
+      "type": "strategy",
+      "props": {
+        "name": "波段交易",
+        "timeframe": "1d+4h",
+        "hold_days": "3-10"
+      },
+      "ts": 1775223178.5899777
+    },
+    "strat_hedge": {
+      "id": "strat_hedge",
+      "type": "strategy",
+      "props": {
+        "name": "相关性对冲",
+        "pairs": "BTC/ETH,SOL/AVAX",
+        "spread_threshold": "2%"
+      },
+      "ts": 1775223178.5899787
+    },
+    "strat_arb": {
+      "id": "strat_arb",
+      "type": "strategy",
+      "props": {
+        "name": "价差套利",
+        "source": "现货vs合约",
+        "threshold": "0.15%"
+      },
+      "ts": 1775223178.5899792
+    },
+    "ind_rsi": {
+      "id": "ind_rsi",
+      "type": "indicator",
+      "props": {
+        "name": "RSI",
+        "oversold": 41.36,
+        "overbought": 58.57,
+        "period": 14
+      },
+      "ts": 1775223178.5899823
+    },
+    "ind_macd": {
+      "id": "ind_macd",
+      "type": "indicator",
+      "props": {
+        "name": "MACD",
+        "fast": 12,
+        "slow": 26,
+        "signal": 9
+      },
+      "ts": 1775223178.5899832
+    },
+    "ind_bb": {
+      "id": "ind_bb",
+      "type": "indicator",
+      "props": {
+        "name": "BollingerBands",
+        "period": 20,
+        "std": 2
+      },
+      "ts": 1775223178.5899873
+    },
+    "ind_atr": {
+      "id": "ind_atr",
+      "type": "indicator",
+      "props": {
+        "name": "ATR",
+        "period": 14,
+        "use": "止损计算"
+      },
+      "ts": 1775223178.589989
+    },
+    "ind_ema": {
+      "id": "ind_ema",
+      "type": "indicator",
+      "props": {
+        "name": "EMA",
+        "periods": [
+          12,
+          26,
+          50,
+          200
+        ]
+      },
+      "ts": 1775223178.5899894
+    },
+    "risk_core": {
+      "id": "risk_core",
+      "type": "risk_rule",
+      "props": {
+        "name": "核心风控",
+        "max_positions": 2,
+        "daily_loss_limit": 3,
+        "stop_loss_pct": 0.0299,
+        "take_profit_r": 1.2056,
+        "risk_per_trade": 0.004
+      },
+      "ts": 1775223178.589999
+    },
+    "sig_SOL_1775223178": {
+      "id": "sig_SOL_1775223178",
+      "type": "signal",
+      "props": {
+        "symbol": "SOL",
+        "grade": "A",
+        "direction": "short",
+        "price": 79.38,
+        "result": null,
+        "ts": "2026-04-03T13:32:58.590449"
+      },
+      "ts": 1775223178.5904555
+    },
+    "sig_BTC_1775223178": {
+      "id": "sig_BTC_1775223178",
+      "type": "signal",
+      "props": {
+        "symbol": "BTC",
+        "grade": "B",
+        "direction": "short",
+        "price": 66800,
+        "result": null,
+        "ts": "2026-04-03T13:32:58.590801"
+      },
+      "ts": 1775223178.5908053
+    }
+  },
+  "edges": {
+    "strat_directional": [
+      {
+        "to": "ind_rsi",
+        "rel": "uses",
+        "weight": 0.9,
+        "props": {},
+        "ts": 1775223178.5899913
+      },
+      {
+        "to": "ind_macd",
+        "rel": "uses",
+        "weight": 0.8,
+        "props": {},
+        "ts": 1775223178.5899928
+      },
+      {
+        "to": "ind_bb",
+        "rel": "uses",
+        "weight": 0.7,
+        "props": {},
+        "ts": 1775223178.5899935
+      },
+      {
+        "to": "ind_atr",
+        "rel": "uses",
+        "weight": 0.85,
+        "props": {},
+        "ts": 1775223178.5899937
+      },
+      {
+        "to": "risk_core",
+        "rel": "governed_by",
+        "weight": 1.0,
+        "props": {},
+        "ts": 1775223178.5900002
+      },
+      {
+        "to": "sig_SOL_1775223178",
+        "rel": "generated",
+        "weight": 1.0,
+        "props": {},
+        "ts": 1775223178.5904586
+      },
+      {
+        "to": "sig_BTC_1775223178",
+        "rel": "generated",
+        "weight": 1.0,
+        "props": {},
+        "ts": 1775223178.5908067
+      }
+    ],
+    "strat_swing": [
+      {
+        "to": "ind_rsi",
+        "rel": "uses",
+        "weight": 0.7,
+        "props": {},
+        "ts": 1775223178.5899944
+      },
+      {
+        "to": "ind_ema",
+        "rel": "uses",
+        "weight": 0.8,
+        "props": {},
+        "ts": 1775223178.589995
+      }
+    ]
+  },
+  "ts": "2026-04-03T13:32:58.590808"
+}

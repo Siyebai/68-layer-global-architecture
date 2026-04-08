@@ -1,0 +1,35 @@
+{
+  "rounds": 3,
+  "total_signals": 3,
+  "total_arb": 24,
+  "best_params": {},
+  "history": [
+    {
+      "round": 1,
+      "ts": "2026-04-03T13:21:40.953672",
+      "dir_signals": 1,
+      "funding_opps": 8,
+      "swing": 0,
+      "hedge": 1,
+      "arb": 0
+    },
+    {
+      "round": 2,
+      "ts": "2026-04-03T13:22:09.335272",
+      "dir_signals": 1,
+      "funding_opps": 8,
+      "swing": 0,
+      "hedge": 1,
+      "arb": 0
+    },
+    {
+      "round": 3,
+      "ts": "2026-04-03T13:24:34.613751",
+      "dir_signals": 1,
+      "funding_opps": 8,
+      "swing": 0,
+      "hedge": 1,
+      "arb": 0
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "bayesian_best": {
+    "rsi_oversold": 33.947423446734604,
+    "rsi_overbought": 67.1291289254628,
+    "stop_loss_pct": 0.017685348704792034,
+    "take_profit_r": 1.837115558655353
+  },
+  "score": 0.5755673337983029,
+  "ts": "2026-04-03T14:02:49",
+  "source": "libai-funding-rate"
+}

@@ -1,0 +1,103 @@
+[2026-04-03 13:14:18] dryRun 守护进程启动
+[2026-04-03 13:14:18] 开始扫描...
+=================================================================
+🎮 dryRun 模拟器  2026-04-03 13:14:18
+   参数: RSI超卖=41.36 | 强度≥0.73 | SL=3.0% | TP=1.2056R
+=================================================================
+
+📡 扫描方向性信号...
+  📉 SOL   A级short  入场=$79.34 SL=$81.71 TP=$76.48 名义$33.44
+  📉 BNB   A级short  入场=$584.76 SL=$602.24 TP=$563.68 名义$33.44
+
+💰 资金费率套利 dryRun...
+  💹 PIPPINUSDT     费率=-2.0000%  分配$38U  预计日收$1.125
+  💹 ONGUSDT        费率=-1.5617%  分配$38U  预计日收$0.878
+  💹 CTSIUSDT       费率=-0.6863%  分配$38U  预计日收$0.386
+
+📊 本次 dryRun 统计:
+  方向性信号: 2 笔
+  套利机会:   3 笔
+  总模拟笔数: 5 笔
+  历史累计:   14 笔 (目标50笔)
+  进度: [█████░░░░░░░░░░░░░░░] 28%
+
+✅ dryRun 记录已保存 → logs/dryrun_trades.jsonl
+[2026-04-03 13:14:19] 本轮完成，下次扫描在 1 小时后
+[2026-04-03 13:46:17] dryRun 守护进程启动 (15分钟间隔)
+[2026-04-03 13:46:17] 扫描中...
+=================================================================
+🎮 dryRun 模拟器  2026-04-03 13:46:17
+   参数: RSI超卖=41.36 | 强度≥0.73 | SL=3.0% | TP=1.2056R
+=================================================================
+
+📡 扫描方向性信号...
+
+💰 资金费率套利 dryRun...
+Traceback (most recent call last):
+  File "/root/.openclaw/workspace/trading-system/dryrun_simulator.py", line 112, in <module>
+    opps = get_funding_opps()
+           ^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/trading-system/dryrun_simulator.py", line 66, in get_funding_opps
+    rates = fetch(f"{FAPI}/fapi/v1/premiumIndex")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/trading-system/dryrun_simulator.py", line 21, in fetch
+    with urllib.request.urlopen(url, timeout=10) as r:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 418: Unknown
+[2026-04-03 13:46:18] 完成，15分钟后继续
+[2026-04-03 14:01:18] 扫描中...
+=================================================================
+🎮 dryRun 模拟器  2026-04-03 14:01:18
+   参数: RSI超卖=41.36 | 强度≥0.73 | SL=3.0% | TP=1.2056R
+=================================================================
+
+📡 扫描方向性信号...
+  📉 XRP   A级short  入场=$1.32 SL=$1.36 TP=$1.27 名义$33.44
+
+💰 资金费率套利 dryRun...
+Traceback (most recent call last):
+  File "/root/.openclaw/workspace/trading-system/dryrun_simulator.py", line 112, in <module>
+    opps = get_funding_opps()
+           ^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/trading-system/dryrun_simulator.py", line 66, in get_funding_opps
+    rates = fetch(f"{FAPI}/fapi/v1/premiumIndex")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/trading-system/dryrun_simulator.py", line 21, in fetch
+    with urllib.request.urlopen(url, timeout=10) as r:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.11/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 418: Unknown
+[2026-04-03 14:01:19] 完成，15分钟后继续

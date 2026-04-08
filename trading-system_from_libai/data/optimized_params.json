@@ -1,0 +1,38 @@
+{
+  "active": {
+    "rsi_oversold": 37.2,
+    "rsi_overbought": 53.69,
+    "stop_loss_pct": 0.0368,
+    "take_profit_r": 1.0,
+    "score": 0.736,
+    "method": "ratchet_wfo"
+  },
+  "all_methods": {
+    "genetic": {
+      "rsi_oversold": 41.36,
+      "rsi_overbought": 58.57,
+      "stop_loss_pct": 0.0299,
+      "take_profit_r": 1.2056,
+      "score": 0.648,
+      "method": "genetic"
+    },
+    "bayesian": {
+      "rsi_oversold": 33.95,
+      "rsi_overbought": 67.13,
+      "stop_loss_pct": 0.0177,
+      "take_profit_r": 1.84,
+      "score": 0.576,
+      "method": "bayesian"
+    },
+    "ratchet_wfo": {
+      "rsi_oversold": 37.2,
+      "rsi_overbought": 53.69,
+      "stop_loss_pct": 0.0368,
+      "take_profit_r": 1.0,
+      "score": 0.736,
+      "method": "ratchet_wfo"
+    }
+  },
+  "note": "ratchet_wfo score\u662fWalk-Forward\u9a8c\u8bc1\u5206\uff0c\u9632\u8fc7\u62df\u5408\uff0c\u6700\u53ef\u4fe1",
+  "ts": "2026-04-03T14:10:00"
+}

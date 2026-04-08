@@ -1,0 +1,982 @@
+🎯 李白AI交易系统 V26.0 启动中...
+🖥️  系统: Linux 6.8.0-101-generic, 2 CPU
+💾 内存: 4 GB
+📊 Agent 总数: 288
+🧠 团队数: 80
+⚡ 周期: 0.08s
+📈 等级: L22
+🦞 V26.0 - 自主学习+自主进化+自主迭代三引擎就绪！
+✅ Worker 323859 已启动
+✅ Worker 323860 已启动
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T02:50:29.219Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T02:50:29.224Z"}
+🌐 Worker 323859 监听端口 3000
+🌐 Worker 323860 监听端口 3000
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T02:50:29.287Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T02:50:29.288Z"}
+[md_0] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_1] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_2] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_3] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_4] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_5] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_0] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_6] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_7] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_1] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_2] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_8] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_3] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_9] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_4] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_10] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_5] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_11] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_12] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_6] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_13] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_7] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_14] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_15] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_8] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_16] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_17] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_9] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_18] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_10] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_19] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_11] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_12] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_13] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_14] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_15] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_16] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_17] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_18] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_19] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_20] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_21] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_22] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_23] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_24] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_20] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_25] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_21] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_22] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_26] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_23] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_27] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_28] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_24] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_29] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_25] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_30] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_26] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_31] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_27] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_32] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_28] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_33] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_29] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_34] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_30] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_35] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_31] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_36] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_32] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_37] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_33] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_38] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_34] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_39] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_35] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_40] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_36] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_37] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_38] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_39] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_40] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_41] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_42] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_43] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_41] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_42] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_44] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_43] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_45] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_44] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_46] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_45] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_47] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_46] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_48] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_47] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_49] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_48] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_50] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_49] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_51] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_50] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_52] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_51] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_53] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_52] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_53] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_54] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_55] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_56] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_57] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_58] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_59] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_54] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_60] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_55] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_61] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_56] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_62] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_57] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_63] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_58] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_59] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_60] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_61] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_62] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+[md_63] Failed to init OKXClient: Cannot find module '../products/exchange-adapters/okx-client'
+Require stack:
+- /root/.openclaw/workspace/scripts_from_libai/ultimate-v26-autonomous-learning.js
+- /root/.openclaw/workspace/scripts_from_libai/adaptive-risk-control.js
+- /root/.openclaw/workspace/scripts_from_libai/autonomous-five-layer-v7-2.js
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T02:50:29.319Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T02:50:29.319Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T02:50:29.320Z"}
+[StateSync] 状态同步器已启动，间隔5秒
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T02:50:29.322Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T02:50:29.322Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T02:50:29.322Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:50:29.323Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T02:50:29.323Z"}
+[StateSync] 状态同步器已启动，间隔5秒
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T02:50:29.325Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T02:50:29.325Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:50:29.326Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T02:50:29.326Z"}
+[优化] 预加载热点数据...
+[优化] 热点数据预加载完成
+
+==========================================
+  启动 V7.2 增强平衡版
+  目标: 14/14模块全部运行，自主度>100%
+==========================================
+
+第1层 [感知层] 初始化...
+[AutonomousMonitorEnhanced] 增强监控模块已启动，间隔30秒
+[AutonomousHealing] 自主修复模块已启动，间隔2分钟
+[9999] 自适应风险控制已启动 (30秒间隔)
+✅ 感知层已启动 (3/3)
+第2层 [认知层] 初始化...
+[AutonomousThinking] 自主思考模块已启动，间隔1分钟
+[AutonomousDecision] 未初始化，跳过启动
+✅ 认知层已启动 (2/2)
+第3层 [行动层] 初始化...
+[AutonomousLearningEnhanced] 数据不足，跳过本次学习
+[AutonomousLearningEnhanced] 增强学习模块已启动，间隔5分钟
+[优化] 预加载热点数据...
+[优化] 热点数据预加载完成
+
+==========================================
+  启动 V7.2 增强平衡版
+  目标: 14/14模块全部运行，自主度>100%
+==========================================
+
+第1层 [感知层] 初始化...
+[AutonomousIterationEnhanced] 增强迭代模块已启动，间隔15分钟
+[AutonomousCreation] 创造完成: { newStrategies: 96, innovative: 96 }
+[AutonomousCreation] 自主创造模块已启动，间隔30分钟
+[WARN] [AutonomousDeployment] 未初始化，跳过启动
+✅ 行动层已启动 (4/4)
+第4层 [学习层] 初始化...
+[AutonomousMonitorEnhanced] 增强监控模块已启动，间隔30秒
+[AutonomousCommunication] 未初始化，跳过启动
+[AutonomousHealing] 自主修复模块已启动，间隔2分钟
+[9999] 自适应风险控制已启动 (30秒间隔)
+✅ 感知层已启动 (3/3)
+第2层 [认知层] 初始化...
+[WARN] [Metacognition] 未初始化，跳过启动
+✅ 学习层已启动 (3/3)
+第5层 [进化层] 初始化...
+[WARN] [Adaptability] 未初始化，跳过启动
+[RapidResponse] 未初始化，跳过启动
+✅ 进化层已启动 (4/4)
+
+[集成] 增强组件...
+  ⚠️ V35.0未启用: V35DeepIntegrationManager is not a constructor
+  ⚠️ 健康自愈未启用: HealthSelfHealingSystem is not a constructor
+  ⚠️ 交易系统未启用: TradingExecutor is not a constructor
+[AutonomousIterationEnhanced] 策略迭代完成: sig_64
+  ✅ 高频协调器已启动 (60s周期)
+
+✅ V7.2 增强平衡版已完全启动
+   自主度: 105%
+   准确率: 86.9%
+   效率: 90.34%
+   技能: 8
+   状态: 14/14模块运行 🎯
+
+[AutonomousIterationEnhanced] 策略迭代完成: sig_65
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T02:50:29.335Z"}
+[AutonomousIterationEnhanced] 策略迭代完成: sig_66
+[AutonomousIterationEnhanced] 策略迭代完成: sig_67
+[AutonomousIterationEnhanced] 策略迭代完成: sig_68
+[AutonomousThinking] 自主思考模块已启动，间隔1分钟
+[AutonomousIterationEnhanced] 策略迭代完成: sig_69
+[AutonomousDecision] 未初始化，跳过启动
+✅ 认知层已启动 (2/2)
+第3层 [行动层] 初始化...
+[AutonomousIterationEnhanced] 策略迭代完成: sig_70
+[AutonomousIterationEnhanced] 策略迭代完成: sig_71
+[AutonomousIterationEnhanced] 策略迭代完成: sig_72
+[AutonomousIterationEnhanced] 策略迭代完成: sig_73
+[AutonomousIterationEnhanced] 策略迭代完成: sig_74
+[AutonomousIterationEnhanced] 策略迭代完成: sig_75
+[AutonomousIterationEnhanced] 策略迭代完成: sig_76
+[AutonomousIterationEnhanced] 策略迭代完成: sig_77
+[AutonomousIterationEnhanced] 策略迭代完成: sig_78
+[AutonomousIterationEnhanced] 策略迭代完成: sig_79
+[AutonomousIterationEnhanced] 策略迭代完成: sig_80
+[AutonomousIterationEnhanced] 策略迭代完成: sig_81
+[AutonomousLearningEnhanced] 数据不足，跳过本次学习
+[AutonomousIterationEnhanced] 策略迭代完成: sig_82
+[AutonomousIterationEnhanced] 策略迭代完成: sig_83
+[AutonomousIterationEnhanced] 策略迭代完成: sig_84
+[AutonomousLearningEnhanced] 增强学习模块已启动，间隔5分钟
+[AutonomousIterationEnhanced] 策略迭代完成: sig_85
+[AutonomousIterationEnhanced] 策略迭代完成: sig_86
+[AutonomousIterationEnhanced] 策略迭代完成: sig_87
+[AutonomousIterationEnhanced] 策略迭代完成: sig_88
+[AutonomousIterationEnhanced] 策略迭代完成: sig_89
+[AutonomousIterationEnhanced] 策略迭代完成: sig_90
+[AutonomousIterationEnhanced] 策略迭代完成: sig_91
+[AutonomousIterationEnhanced] 策略迭代完成: sig_92
+[AutonomousIterationEnhanced] 策略迭代完成: sig_93
+[AutonomousIterationEnhanced] 策略迭代完成: sig_94
+[AutonomousIterationEnhanced] 策略迭代完成: sig_95
+[AutonomousIterationEnhanced] 策略迭代完成: sig_96
+[AutonomousIterationEnhanced] 策略迭代完成: sig_97
+[AutonomousIterationEnhanced] 策略迭代完成: sig_98
+[AutonomousIterationEnhanced] 策略迭代完成: sig_99
+[AutonomousIterationEnhanced] 策略迭代完成: sig_100
+[AutonomousIterationEnhanced] 策略迭代完成: sig_101
+[AutonomousIterationEnhanced] 策略迭代完成: sig_102
+[AutonomousIterationEnhanced] 策略迭代完成: sig_103
+[AutonomousIterationEnhanced] 策略迭代完成: sig_104
+[AutonomousIterationEnhanced] 增强迭代模块已启动，间隔15分钟
+[AutonomousCreation] 创造完成: { newStrategies: 96, innovative: 96 }
+[AutonomousCreation] 自主创造模块已启动，间隔30分钟
+[WARN] [AutonomousDeployment] 未初始化，跳过启动
+✅ 行动层已启动 (4/4)
+第4层 [学习层] 初始化...
+[AutonomousIterationEnhanced] 策略迭代完成: sig_105
+[AutonomousIterationEnhanced] 策略迭代完成: sig_106
+[AutonomousIterationEnhanced] 策略迭代完成: sig_107
+[AutonomousIterationEnhanced] 策略迭代完成: sig_108
+[AutonomousIterationEnhanced] 策略迭代完成: sig_109
+[AutonomousIterationEnhanced] 策略迭代完成: sig_110
+[AutonomousIterationEnhanced] 策略迭代完成: sig_111
+[AutonomousCommunication] 未初始化，跳过启动
+[AutonomousIterationEnhanced] 策略迭代完成: sig_112
+[AutonomousIterationEnhanced] 策略迭代完成: sig_113
+[AutonomousIterationEnhanced] 策略迭代完成: sig_114
+[WARN] [Metacognition] 未初始化，跳过启动
+[AutonomousIterationEnhanced] 策略迭代完成: sig_115
+[AutonomousIterationEnhanced] 策略迭代完成: sig_116
+[AutonomousIterationEnhanced] 策略迭代完成: sig_117
+[AutonomousIterationEnhanced] 策略迭代完成: sig_118
+[AutonomousIterationEnhanced] 策略迭代完成: sig_119
+[AutonomousIterationEnhanced] 策略迭代完成: sig_120
+[AutonomousIterationEnhanced] 策略迭代完成: sig_121
+[AutonomousIterationEnhanced] 策略迭代完成: sig_122
+[AutonomousIterationEnhanced] 策略迭代完成: sig_123
+[AutonomousIterationEnhanced] 策略迭代完成: sig_124
+[AutonomousIterationEnhanced] 策略迭代完成: sig_125
+[AutonomousIterationEnhanced] 策略迭代完成: sig_126
+[AutonomousIterationEnhanced] 策略迭代完成: sig_127
+[AutonomousIterationEnhanced] 策略迭代完成: sig_128
+[AutonomousIterationEnhanced] 策略迭代完成: sig_129
+[AutonomousIterationEnhanced] 策略迭代完成: sig_130
+[AutonomousIterationEnhanced] 策略迭代完成: sig_131
+[AutonomousIterationEnhanced] 策略迭代完成: sig_132
+[AutonomousIterationEnhanced] 策略迭代完成: sig_133
+[AutonomousIterationEnhanced] 策略迭代完成: sig_134
+[AutonomousIterationEnhanced] 策略迭代完成: sig_135
+[AutonomousIterationEnhanced] 策略迭代完成: sig_136
+[AutonomousIterationEnhanced] 策略迭代完成: sig_137
+[AutonomousIterationEnhanced] 策略迭代完成: sig_138
+✅ 学习层已启动 (3/3)
+[AutonomousIterationEnhanced] 策略迭代完成: sig_139
+第5层 [进化层] 初始化...
+[AutonomousIterationEnhanced] 策略迭代完成: sig_140
+[AutonomousIterationEnhanced] 策略迭代完成: sig_141
+[AutonomousIterationEnhanced] 策略迭代完成: sig_142
+[AutonomousIterationEnhanced] 策略迭代完成: sig_143
+[AutonomousIterationEnhanced] 策略迭代完成: sig_144
+[AutonomousIterationEnhanced] 策略迭代完成: sig_145
+[AutonomousIterationEnhanced] 策略迭代完成: sig_146
+[AutonomousIterationEnhanced] 策略迭代完成: sig_147
+[AutonomousIterationEnhanced] 策略迭代完成: sig_148
+[AutonomousIterationEnhanced] 策略迭代完成: sig_149
+[AutonomousIterationEnhanced] 策略迭代完成: sig_150
+[AutonomousIterationEnhanced] 策略迭代完成: sig_151
+[AutonomousIterationEnhanced] 策略迭代完成: sig_152
+[AutonomousIterationEnhanced] 策略迭代完成: sig_153
+[AutonomousIterationEnhanced] 策略迭代完成: sig_154
+[AutonomousIterationEnhanced] 策略迭代完成: sig_155
+[AutonomousIterationEnhanced] 策略迭代完成: sig_156
+[AutonomousIterationEnhanced] 策略迭代完成: sig_157
+[WARN] [Adaptability] 未初始化，跳过启动
+[AutonomousIterationEnhanced] 策略迭代完成: sig_158
+[AutonomousIterationEnhanced] 策略迭代完成: sig_159
+[RapidResponse] 未初始化，跳过启动
+✅ 进化层已启动 (4/4)
+
+[集成] 增强组件...
+  ⚠️ V35.0未启用: V35DeepIntegrationManager is not a constructor
+  ⚠️ 健康自愈未启用: HealthSelfHealingSystem is not a constructor
+  ⚠️ 交易系统未启用: TradingExecutor is not a constructor
+[AutonomousIterationEnhanced] 策略迭代完成: sig_64
+  ✅ 高频协调器已启动 (60s周期)
+
+✅ V7.2 增强平衡版已完全启动
+   自主度: 105%
+   准确率: 86.9%
+   效率: 90.34%
+   技能: 8
+   状态: 14/14模块运行 🎯
+
+[AutonomousIterationEnhanced] 策略迭代完成: sig_65
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T02:50:29.342Z"}
+[AutonomousIterationEnhanced] 策略迭代完成: sig_66
+[AutonomousIterationEnhanced] 策略迭代完成: sig_67
+[AutonomousIterationEnhanced] 策略迭代完成: sig_68
+[AutonomousIterationEnhanced] 策略迭代完成: sig_69
+[AutonomousIterationEnhanced] 策略迭代完成: sig_70
+[AutonomousIterationEnhanced] 策略迭代完成: sig_71
+[AutonomousIterationEnhanced] 策略迭代完成: sig_72
+[AutonomousIterationEnhanced] 策略迭代完成: sig_73
+[AutonomousIterationEnhanced] 策略迭代完成: sig_74
+[AutonomousIterationEnhanced] 策略迭代完成: sig_75
+[AutonomousIterationEnhanced] 策略迭代完成: sig_76
+[AutonomousIterationEnhanced] 策略迭代完成: sig_77
+[AutonomousIterationEnhanced] 策略迭代完成: sig_78
+[AutonomousIterationEnhanced] 策略迭代完成: sig_79
+[AutonomousIterationEnhanced] 策略迭代完成: sig_80
+[AutonomousIterationEnhanced] 策略迭代完成: sig_81
+[AutonomousIterationEnhanced] 策略迭代完成: sig_82
+[AutonomousIterationEnhanced] 策略迭代完成: sig_83
+[AutonomousIterationEnhanced] 策略迭代完成: sig_84
+[AutonomousIterationEnhanced] 策略迭代完成: sig_85
+[AutonomousIterationEnhanced] 策略迭代完成: sig_86
+[AutonomousIterationEnhanced] 策略迭代完成: sig_87
+[AutonomousIterationEnhanced] 策略迭代完成: sig_88
+[AutonomousIterationEnhanced] 策略迭代完成: sig_89
+[AutonomousIterationEnhanced] 策略迭代完成: sig_90
+[AutonomousIterationEnhanced] 策略迭代完成: sig_91
+[AutonomousIterationEnhanced] 策略迭代完成: sig_92
+[AutonomousIterationEnhanced] 策略迭代完成: sig_93
+[AutonomousIterationEnhanced] 策略迭代完成: sig_94
+[AutonomousIterationEnhanced] 策略迭代完成: sig_95
+[AutonomousIterationEnhanced] 策略迭代完成: sig_96
+[AutonomousIterationEnhanced] 策略迭代完成: sig_97
+[AutonomousIterationEnhanced] 策略迭代完成: sig_98
+[AutonomousIterationEnhanced] 策略迭代完成: sig_99
+[AutonomousIterationEnhanced] 策略迭代完成: sig_100
+[AutonomousIterationEnhanced] 策略迭代完成: sig_101
+[AutonomousIterationEnhanced] 策略迭代完成: sig_102
+[AutonomousIterationEnhanced] 策略迭代完成: sig_103
+[AutonomousIterationEnhanced] 策略迭代完成: sig_104
+[AutonomousIterationEnhanced] 策略迭代完成: sig_105
+[AutonomousIterationEnhanced] 策略迭代完成: sig_106
+[AutonomousIterationEnhanced] 策略迭代完成: sig_107
+[AutonomousIterationEnhanced] 策略迭代完成: sig_108
+[AutonomousIterationEnhanced] 策略迭代完成: sig_109
+[AutonomousIterationEnhanced] 策略迭代完成: sig_110
+[AutonomousIterationEnhanced] 策略迭代完成: sig_111
+[AutonomousIterationEnhanced] 策略迭代完成: sig_112
+[AutonomousIterationEnhanced] 策略迭代完成: sig_113
+[AutonomousIterationEnhanced] 策略迭代完成: sig_114
+[AutonomousIterationEnhanced] 策略迭代完成: sig_115
+[AutonomousIterationEnhanced] 策略迭代完成: sig_116
+[AutonomousIterationEnhanced] 策略迭代完成: sig_117
+[AutonomousIterationEnhanced] 策略迭代完成: sig_118
+[AutonomousIterationEnhanced] 策略迭代完成: sig_119
+[AutonomousIterationEnhanced] 策略迭代完成: sig_120
+[AutonomousIterationEnhanced] 策略迭代完成: sig_121
+[AutonomousIterationEnhanced] 策略迭代完成: sig_122
+[AutonomousIterationEnhanced] 策略迭代完成: sig_123
+[AutonomousIterationEnhanced] 策略迭代完成: sig_124
+[AutonomousIterationEnhanced] 策略迭代完成: sig_125
+[AutonomousIterationEnhanced] 策略迭代完成: sig_126
+[AutonomousIterationEnhanced] 策略迭代完成: sig_127
+[AutonomousIterationEnhanced] 策略迭代完成: sig_128
+[AutonomousIterationEnhanced] 策略迭代完成: sig_129
+[AutonomousIterationEnhanced] 策略迭代完成: sig_130
+[AutonomousIterationEnhanced] 策略迭代完成: sig_131
+[AutonomousIterationEnhanced] 策略迭代完成: sig_132
+[AutonomousIterationEnhanced] 策略迭代完成: sig_133
+[AutonomousIterationEnhanced] 策略迭代完成: sig_134
+[AutonomousIterationEnhanced] 策略迭代完成: sig_135
+[AutonomousIterationEnhanced] 策略迭代完成: sig_136
+[AutonomousIterationEnhanced] 策略迭代完成: sig_137
+[AutonomousIterationEnhanced] 策略迭代完成: sig_138
+[AutonomousIterationEnhanced] 策略迭代完成: sig_139
+[AutonomousIterationEnhanced] 策略迭代完成: sig_140
+[AutonomousIterationEnhanced] 策略迭代完成: sig_141
+[AutonomousIterationEnhanced] 策略迭代完成: sig_142
+[AutonomousIterationEnhanced] 策略迭代完成: sig_143
+[AutonomousIterationEnhanced] 策略迭代完成: sig_144
+[AutonomousIterationEnhanced] 策略迭代完成: sig_145
+[AutonomousIterationEnhanced] 策略迭代完成: sig_146
+[AutonomousIterationEnhanced] 策略迭代完成: sig_147
+[AutonomousIterationEnhanced] 策略迭代完成: sig_148
+[AutonomousIterationEnhanced] 策略迭代完成: sig_149
+[AutonomousIterationEnhanced] 策略迭代完成: sig_150
+[AutonomousIterationEnhanced] 策略迭代完成: sig_151
+[AutonomousIterationEnhanced] 策略迭代完成: sig_152
+[AutonomousIterationEnhanced] 策略迭代完成: sig_153
+[AutonomousIterationEnhanced] 策略迭代完成: sig_154
+[AutonomousIterationEnhanced] 策略迭代完成: sig_155
+[AutonomousIterationEnhanced] 策略迭代完成: sig_156
+[AutonomousIterationEnhanced] 策略迭代完成: sig_157
+[AutonomousIterationEnhanced] 策略迭代完成: sig_158
+[AutonomousIterationEnhanced] 策略迭代完成: sig_159
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:50:30.324Z","uptime":"1s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:50:30.327Z","uptime":"1s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.426Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.426Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.427Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.427Z"}
+[AutonomousMonitorEnhanced] 监控数据: {
+  agents: '288/288',
+  learning: 0,
+  evolution: 0,
+  iteration: 192,
+  profit: '0.00'
+}
+[AutonomousMonitorEnhanced] 监控数据: {
+  agents: '288/288',
+  learning: 0,
+  evolution: 0,
+  iteration: 192,
+  profit: '0.00'
+}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:32.529Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:32.529Z"}
+[AutonomousThinking] 思考完成: { environment: undefined, goalsCount: 3, strategiesCount: 3 }
+[AutonomousThinking] 思考完成: { environment: undefined, goalsCount: 3, strategiesCount: 3 }

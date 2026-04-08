@@ -1,0 +1,579 @@
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T01:37:06.433Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.524Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.579Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T01:37:06.458Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.602Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.660Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.681Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.762Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.832Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:06.913Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.034Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.114Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.286Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.367Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.587Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.670Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:07.939Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:08.022Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:08.342Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:08.424Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:08.794Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:08.876Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:09.295Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:09.377Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:09.847Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:09.929Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:10.449Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:10.530Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:11.101Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:11.181Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:11.802Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:11.882Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:12.553Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:12.634Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:13.355Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:13.436Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:14.206Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:14.287Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:15.107Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:15.189Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:16.058Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:16.140Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.059Z"}
+{"level":"warn","message":"Worker 302538 退出，重启中...","timestamp":"2026-04-08T01:37:17.067Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.144Z"}
+{"level":"warn","message":"Worker 302539 退出，重启中...","timestamp":"2026-04-08T01:37:17.168Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T01:37:17.376Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.435Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.487Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T01:37:17.516Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.547Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.589Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.602Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.703Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.740Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.855Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:17.941Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.057Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.193Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.309Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.494Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.610Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.845Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:18.962Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:19.248Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:19.364Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:19.700Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:19.815Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:20.203Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:20.319Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:20.755Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:20.870Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:21.359Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:21.471Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:22.010Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:22.123Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:22.712Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:22.825Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:23.463Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:23.577Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:24.265Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:24.378Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:25.116Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:25.229Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:26.018Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:26.130Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:26.974Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:27.082Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:27.975Z"}
+{"level":"warn","message":"Worker 302601 退出，重启中...","timestamp":"2026-04-08T01:37:27.982Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.083Z"}
+{"level":"warn","message":"Worker 302609 退出，重启中...","timestamp":"2026-04-08T01:37:28.095Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T01:37:28.239Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.302Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.355Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T01:37:28.405Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.440Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.457Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.492Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.594Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.609Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.745Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.811Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:28.947Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.063Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.199Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.364Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.501Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.715Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:29.854Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:30.118Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:30.258Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:30.570Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:30.711Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:31.071Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:31.212Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:31.623Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:31.763Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:32.225Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:32.365Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:32.876Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:33.016Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:33.578Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:33.718Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:34.332Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:34.470Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:35.134Z"}
+{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-111,"level":"error","message":"Redis error: connect ECONNREFUSED 127.0.0.1:6379","port":6379,"stack":"Error: connect ECONNREFUSED 127.0.0.1:6379\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1637:16)","syscall":"connect","timestamp":"2026-04-08T01:37:35.272Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T01:38:08.269Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T01:38:08.268Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T01:38:08.333Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T01:38:08.331Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T01:38:08.359Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T01:38:08.359Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T01:38:08.361Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T01:38:08.363Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T01:38:08.363Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T01:38:08.364Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T01:38:08.364Z"}
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T01:38:08.379Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T01:38:08.361Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T01:38:08.363Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T01:38:08.363Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T01:38:08.364Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T01:38:08.364Z"}
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T01:38:08.379Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:10.389Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:10.390Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:11.394Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:11.394Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:38:30.455Z","uptime":"22s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:38:30.455Z","uptime":"22s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:39.482Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:38:39.482Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:39:00.556Z","uptime":"52s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:39:00.556Z","uptime":"52s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:09.589Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:09.592Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:09.589Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:09.593Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:39:30.662Z","uptime":"82s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:39:30.763Z","uptime":"82s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:39.697Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:39:39.798Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:40:00.774Z","uptime":"112s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:40:00.874Z","uptime":"112s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:09.809Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:09.809Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:09.910Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:09.910Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:10.812Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:10.913Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:40:30.991Z","uptime":"142s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:40:30.991Z","uptime":"142s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:40.020Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:40:40.020Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:41:00.089Z","uptime":"171s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:41:00.190Z","uptime":"172s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:10.124Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:10.125Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:10.225Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:10.225Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:41:30.196Z","uptime":"202s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:41:30.297Z","uptime":"202s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:40.235Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:41:40.336Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:42:00.304Z","uptime":"232s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:42:00.404Z","uptime":"232s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:09.437Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:09.438Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:10.340Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:10.340Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:10.440Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:11.343Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:42:30.409Z","uptime":"262s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:42:30.510Z","uptime":"262s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:39.440Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:42:39.541Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:43:00.515Z","uptime":"292s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:43:00.616Z","uptime":"292s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:09.548Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:09.548Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:09.648Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:09.649Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:43:30.622Z","uptime":"322s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:43:30.724Z","uptime":"322s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:39.654Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:43:39.755Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:44:00.727Z","uptime":"352s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:44:00.828Z","uptime":"352s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:09.761Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:09.762Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:09.862Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:09.862Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:10.764Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:10.864Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:44:30.841Z","uptime":"382s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:44:30.942Z","uptime":"382s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:39.874Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:44:39.975Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:45:00.046Z","uptime":"411s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:45:00.950Z","uptime":"412s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:09.983Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:09.983Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:10.083Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:10.084Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:45:30.052Z","uptime":"441s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:45:30.254Z","uptime":"442s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:40.090Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:45:40.291Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:46:00.158Z","uptime":"472s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:46:00.360Z","uptime":"472s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:09.393Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:09.393Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:10.195Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:10.195Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:10.396Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:11.198Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:46:30.261Z","uptime":"502s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:46:30.462Z","uptime":"502s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:39.496Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:46:40.298Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:47:00.369Z","uptime":"532s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:47:00.570Z","uptime":"532s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:09.407Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:09.407Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:09.607Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:09.608Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:47:30.494Z","uptime":"562s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:47:30.695Z","uptime":"562s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:39.528Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:47:39.729Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:48:00.603Z","uptime":"592s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:48:00.804Z","uptime":"592s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:09.639Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:09.640Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:09.840Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:09.840Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:10.642Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:10.843Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:48:30.716Z","uptime":"622s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:48:30.917Z","uptime":"622s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:39.752Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:48:39.953Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:49:00.023Z","uptime":"651s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:49:00.925Z","uptime":"652s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:09.958Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:09.958Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:10.059Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:10.059Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:49:30.037Z","uptime":"681s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:49:30.138Z","uptime":"681s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:40.071Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:49:40.172Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:50:00.146Z","uptime":"712s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:50:00.247Z","uptime":"712s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:10.194Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:10.195Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:10.295Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:10.295Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:11.198Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:11.298Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:50:30.266Z","uptime":"742s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:50:30.367Z","uptime":"742s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:39.401Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:50:40.304Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:51:00.374Z","uptime":"772s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:51:00.474Z","uptime":"772s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:09.406Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:09.406Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:09.606Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:09.607Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:51:30.484Z","uptime":"802s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:51:30.685Z","uptime":"802s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:39.519Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:51:39.720Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:52:00.600Z","uptime":"832s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:52:00.800Z","uptime":"832s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:09.632Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:09.632Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:09.833Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:09.833Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:10.635Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:10.835Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:52:30.711Z","uptime":"862s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:52:30.912Z","uptime":"862s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:39.744Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:52:39.947Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:53:00.023Z","uptime":"891s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:53:00.825Z","uptime":"892s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:09.859Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:09.859Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:10.060Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:10.060Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:53:30.133Z","uptime":"921s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:53:30.935Z","uptime":"922s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:39.968Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:53:40.169Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:54:00.042Z","uptime":"951s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:54:00.243Z","uptime":"952s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:10.077Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:10.078Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:10.278Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:10.278Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:11.082Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:11.283Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:54:30.153Z","uptime":"982s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:54:30.353Z","uptime":"982s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:39.388Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:54:40.191Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:55:00.256Z","uptime":"1012s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:55:00.458Z","uptime":"1012s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:09.493Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:09.493Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:10.295Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:10.295Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:55:30.364Z","uptime":"1042s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:55:30.565Z","uptime":"1042s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:39.399Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:55:39.600Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:56:00.478Z","uptime":"1072s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:56:00.781Z","uptime":"1072s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:09.513Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:09.513Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:09.814Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:09.815Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:10.516Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:10.817Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:56:30.590Z","uptime":"1102s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:56:30.891Z","uptime":"1102s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:39.625Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:56:39.926Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:57:00.701Z","uptime":"1132s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:09.737Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:09.738Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:10.040Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:10.040Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:57:30.116Z","uptime":"1161s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:57:30.819Z","uptime":"1162s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:39.854Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:57:40.155Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:58:00.024Z","uptime":"1191s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:58:00.225Z","uptime":"1192s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:10.062Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:10.062Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:10.263Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:10.263Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:11.065Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:11.265Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:58:30.133Z","uptime":"1221s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:58:30.334Z","uptime":"1222s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:39.468Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:58:40.171Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:59:00.243Z","uptime":"1252s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:59:00.544Z","uptime":"1252s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:09.579Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:09.579Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:10.281Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:10.281Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:59:30.455Z","uptime":"1282s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T01:59:30.656Z","uptime":"1282s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:39.488Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T01:59:39.689Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:00:00.564Z","uptime":"1312s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:00:00.766Z","uptime":"1312s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:09.598Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:09.598Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:09.799Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:09.799Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:10.602Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:10.803Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:00:30.671Z","uptime":"1342s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:00:30.872Z","uptime":"1342s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:39.706Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:00:39.906Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:01:00.777Z","uptime":"1372s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:01:00.979Z","uptime":"1372s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:10.009Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:10.013Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:10.010Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:10.014Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:01:30.080Z","uptime":"1401s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:01:30.080Z","uptime":"1401s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:40.117Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:01:40.117Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:02:00.182Z","uptime":"1432s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:02:00.183Z","uptime":"1432s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:10.220Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:10.220Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:10.221Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:10.223Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:11.223Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:11.223Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:02:30.287Z","uptime":"1462s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:02:30.388Z","uptime":"1462s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:39.421Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:02:40.330Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:03:00.396Z","uptime":"1492s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:03:00.497Z","uptime":"1492s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:09.428Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:09.428Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:09.528Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:09.529Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:03:30.497Z","uptime":"1522s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:03:30.597Z","uptime":"1522s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:39.527Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:03:39.627Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:04:00.598Z","uptime":"1552s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:04:00.699Z","uptime":"1552s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:09.634Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:09.634Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:09.732Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:09.732Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:10.635Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:10.735Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:04:30.706Z","uptime":"1582s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:04:30.807Z","uptime":"1582s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:39.739Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:04:39.840Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:05:00.813Z","uptime":"1612s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:05:00.915Z","uptime":"1612s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:09.850Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:09.850Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:09.951Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:09.951Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:05:30.126Z","uptime":"1641s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:05:30.929Z","uptime":"1642s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:39.961Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:05:40.162Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:06:00.034Z","uptime":"1671s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:06:00.236Z","uptime":"1672s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:10.091Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:10.091Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:10.293Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:10.293Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:11.095Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:11.295Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:06:30.156Z","uptime":"1702s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:06:30.357Z","uptime":"1702s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:40.190Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:06:40.391Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:07:00.257Z","uptime":"1732s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:07:00.458Z","uptime":"1732s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:09.490Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:09.490Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:10.292Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:10.293Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:07:30.366Z","uptime":"1762s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:07:30.566Z","uptime":"1762s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:39.397Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:07:39.599Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:08:00.483Z","uptime":"1792s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":384,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:08:00.685Z","uptime":"1792s"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T02:48:51.569Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T02:48:51.570Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T02:48:51.637Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T02:48:51.636Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T02:48:51.664Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T02:48:51.666Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T02:48:51.665Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T02:48:51.667Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T02:48:51.668Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:48:51.668Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T02:48:51.668Z"}
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T02:48:51.680Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T02:48:51.668Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T02:48:51.669Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T02:48:51.670Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:48:51.671Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T02:48:51.671Z"}
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T02:48:51.682Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:53.681Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:53.681Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:53.682Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:53.683Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:54.685Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:48:54.685Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:49:00.804Z","uptime":"9s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:49:00.804Z","uptime":"9s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:22.883Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:22.984Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T02:49:30.414Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T02:49:30.488Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T02:49:30.514Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T02:49:30.449Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T02:49:30.526Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T02:49:30.515Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T02:49:30.517Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T02:49:30.517Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:49:30.518Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T02:49:30.518Z"}
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T02:49:30.529Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T02:49:30.546Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T02:49:30.547Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T02:49:30.548Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T02:49:30.548Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:49:30.549Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T02:49:30.549Z"}
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T02:49:30.556Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:32.621Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:32.620Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:32.622Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:32.623Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:33.621Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:33.622Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T02:49:56.915Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T02:49:56.988Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T02:49:57.014Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T02:49:57.015Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T02:49:57.017Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T02:49:57.017Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:49:57.018Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T02:49:57.018Z"}
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T02:49:57.031Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T02:49:57.009Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T02:49:57.059Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T02:49:57.076Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T02:49:57.077Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T02:49:57.079Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T02:49:57.079Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:49:57.079Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T02:49:57.080Z"}
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T02:49:57.087Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:59.115Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:59.114Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:59.115Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:49:59.115Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:50:00.117Z","uptime":"3s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:50:00.118Z","uptime":"3s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:00.118Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:00.119Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:28.214Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:28.315Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T02:50:29.224Z"}
+{"level":"info","message":"初始化李白AI交易系统 V26.0 - 自主学习进化版...","timestamp":"2026-04-08T02:50:29.219Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T02:50:29.288Z"}
+{"level":"info","message":"Redis connected","timestamp":"2026-04-08T02:50:29.287Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T02:50:29.319Z"}
+{"level":"info","message":"创建 288 个 Agent (V26: 288)","timestamp":"2026-04-08T02:50:29.319Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T02:50:29.320Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T02:50:29.322Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T02:50:29.322Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:50:29.323Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T02:50:29.323Z"}
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T02:50:29.335Z"}
+{"level":"info","message":"三大引擎定时器已启动","timestamp":"2026-04-08T02:50:29.322Z"}
+{"level":"info","message":"状态同步器已启动","timestamp":"2026-04-08T02:50:29.325Z"}
+{"level":"info","message":"初始化知识库完整系统 (Q李白成果)...","timestamp":"2026-04-08T02:50:29.325Z"}
+{"level":"error","message":"知识库系统初始化失败:","timestamp":"2026-04-08T02:50:29.326Z"}
+{"level":"info","message":"V26.0 系统初始化完成 - 三大引擎已启动","timestamp":"2026-04-08T02:50:29.326Z"}
+{"level":"info","message":"五层认知自主系统 V7.2-Balanced 已启动 - 14/14模块运行","timestamp":"2026-04-08T02:50:29.342Z"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:50:30.324Z","uptime":"1s"}
+{"agents":"288/288","errors":0,"evolutionGenerations":0,"iterations":192,"learningCycles":0,"level":"info","message":"V26系统健康状态","messages":0,"profit":"0.00","timestamp":"2026-04-08T02:50:30.327Z","uptime":"1s"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.426Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.426Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.427Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:31.427Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:32.529Z"}
+{"level":"error","message":"从Redis读取状态失败:","timestamp":"2026-04-08T02:50:32.529Z"}
